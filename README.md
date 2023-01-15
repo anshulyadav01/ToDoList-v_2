@@ -2,7 +2,7 @@
 ##### --version-2
 
 - A new ToDo List with dynamic functionalities using your local machine memory.
-- Make mulitple lists without hassle.
+- Make multiple lists without hassle.
 - Every list retains your earlier todos.
 - Adding and deleting todos can't get any easier.
 
