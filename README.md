@@ -14,6 +14,8 @@
       npm i express 
       npm i lodash 
       npm i mongoose
+      npm i ejs
+      npm i body-parser
 
 - After all the neccessary node modules are downloaded open your terminal in respective project location and - 
      ```
